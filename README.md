@@ -1,2 +1,2 @@
-# tutorials
-Tutorials by Ahsen Alee
+# Tutorials
+GitHub Tutorials by Ahsen Alee
